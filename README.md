@@ -6,8 +6,7 @@
 
 |     Part 1     |               Part 2               |
 |:--------------:|:----------------------------------:|
-
-|    Addition    |   [Population Mean](definitons/PopulationMean.md)          |
+|    Addition    | [Population Mean](definitons/PopulationMean.md)|
 |   Subtraction  |               [Median](definitons/median.md)               |
 | Multiplication |                [Mode](definitons/mode.md)                |
 |    Division    |    [Population Standard Deviation](definitons/PopulationStandardDeviation.md)   |
